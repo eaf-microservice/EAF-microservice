@@ -15,9 +15,8 @@ You can visit our [portfolio](https://fouadeaf.github.io/EAF-microservice/ "port
 ---
 
 ### <u>Tools & Languages</u>
-
 <p align="center">
-    <a href="https://github.com/eaf-microservice#tools--languages">
+    <marquee height="50">
         <!-- Git -->
         <img src="https://i.ibb.co/gb63GR7b/git.png" alt="Git"  height="40" style="vertical-align:top; margin:4px">
         <!-- Github -->
@@ -76,7 +75,7 @@ You can visit our [portfolio](https://fouadeaf.github.io/EAF-microservice/ "port
         <img src="https://i.ibb.co/nMyFNmpJ/docker.png" alt="DOCKER" height="40" style="vertical-align:top; margin:4px">
         <!-- ANDROID -->
         <img src="https://i.ibb.co/RGvPfDwy/android.png" alt="ANDROID" height="40" style="vertical-align:top; margin:4px">
-    </a>
+    </marquee>
 </p>
 
 ---
@@ -119,3 +118,4 @@ You can visit our [portfolio](https://fouadeaf.github.io/EAF-microservice/ "port
 
 <p align="center">All right reserved (C) EAF microservice .Co</p>
 <p align="center">"Votre succès est notre technologie" 🚀</p>
+
