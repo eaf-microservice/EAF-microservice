@@ -75,6 +75,8 @@ You can visit our [portfolio](https://eaf-microservice.netlify.app/ "portfolio")
         <img src="https://i.ibb.co/nMyFNmpJ/docker.png" alt="DOCKER" height="40" style="vertical-align:top; margin:4px">
         <!-- ANDROID -->
         <img src="https://i.ibb.co/RGvPfDwy/android.png" alt="ANDROID" height="40" style="vertical-align:top; margin:4px">
+        <!-- Antigravity -->
+        <img src="https://i.ibb.co/KxWPTwcy/antigravity.png" alt="Antigravity" height="40" style="vertical-align:top; margin:4px">
     </marquee>
 </p>
 
@@ -118,5 +120,6 @@ You can visit our [portfolio](https://eaf-microservice.netlify.app/ "portfolio")
 
 <p align="center">All right reserved (C) EAF microservice .Co</p>
 <p align="center">"Votre succès est notre technologie" 🚀</p>
+
 
 
