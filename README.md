@@ -113,13 +113,13 @@ You can visit our [portfolio](https://eaf-microservice.netlify.app/ "portfolio")
 <p align="center">
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaf-microservice" alt="Repos per Language">
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaf-microservice&theme=github" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaf-microservice" alt="GitHub Streak">
 </p>
 
 ---
 
 <p align="center">All right reserved (C) EAF microservice .Co</p>
 <p align="center">"Votre succès est notre technologie" 🚀</p>
+
 
 
 
